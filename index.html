@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dina Store</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+
+    <link rel="stylesheet" href="css/global.css" />
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body>
+    <header>
+      <img src="logo/dinaStore2.png" alt="logo" />
+      <div>
+        <a href="auth.html" id="login">
+          Login <i class="fa-solid fa-right-to-bracket"></i>
+        </a>
+        <a href="dashboard.html" id="dashboard">
+          Dashboard <i class="fa-solid fa-house"></i>
+        </a>
+      </div>
+    </header>
+
+    <section id="search">
+      <h1>Find Your Perfect Product</h1>
+      <p>Browse thousands of items at the best prices</p>
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search product..." />
+        <button id="searchBtn">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+      </div>
+    </section>
+
+    <div id="container">
+      <div id="products"><span id="loader"></span></div>
+      <div id="filter">
+        <div>
+          <i class="fa-solid fa-sliders"></i>
+          <p>Categories</p>
+        </div>
+        <ul>
+          <li class="selected">All</li>
+          <li>Electronics</li>
+          <li>Jewelery</li>
+          <li>Men's Clothing</li>
+          <li>Women's Clothing</li>
+        </ul>
+      </div>
+    </div>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
