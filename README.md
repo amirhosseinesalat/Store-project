@@ -1,37 +1,58 @@
-# 🛍️ Dina Store
+Dina Store
 
-A simple and modern e-commerce website built with **HTML**, **CSS**, and **JavaScript**.  
-This project was created by **Amirhossein Esalat** as part of his Front-end Bootcamp learning journey.
+Dina Store is a simple and modern e-commerce website built using HTML, CSS, and JavaScript.
+This project was developed as part of my Front-end Bootcamp learning journey, with a focus on layout design, responsiveness, and basic user interactions.
 
-### ✨ Features
+The goal of this project was to strengthen my fundamentals in vanilla front-end development without using any frameworks.
 
-- Product categories section
-- Clean and modern layout
-- Responsive design for mobile and tablet
-- Simple navigation and smooth user experience
+ Features
 
----
+Product categories section
 
-## 🧠 Technologies Used
+Clean and minimal UI design
 
-- HTML5
-- CSS3 (Flexbox / Grid)
-- JavaScript (for interactions)
+Responsive layout for mobile and tablet screens
 
----
+Simple navigation and smooth user experience
 
-## 🚀 How to Use
+Lightweight and fast performance
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/amirhosseinesalat/dina-store.git
-   ```
-2. Open index.html in your browser
+ Technologies Used
 
-3. Explore products and categories!
+HTML5
 
-🛒 دینا استور
+CSS3 (Flexbox & Grid)
 
-یک وب‌سایت فروشگاهی ساده و مدرن ساخته شده با HTML، CSS و JavaScript
-این پروژه توسط امیرحسین اصالت در مسیر یادگیری بوت‌کمپ فرانت‌اند ساخته شده است.
-دارای بخش دسته‌بندی محصولات، طراحی تمیز و واکنش‌گرا.
+JavaScript (basic interactions)
+
+ How to Use
+
+Clone the repository:
+
+git clone https://github.com/amirhosseinesalat/dina-store.git
+
+
+Open the project:
+
+Open index.html in your browser
+
+
+Explore the product categories and layout.
+
+ Purpose of This Project
+
+This project was created to practice:
+
+Semantic HTML structure
+
+Responsive layouts with CSS
+
+Basic JavaScript interactions
+
+Building a small real-world UI without libraries
+
+ Developer
+
+Amirhossein Esalat
+Front-end Developer
+ sltamirhosein@gmail.com
